@@ -1,7 +1,5 @@
-
 <h1 align="center">Hi 👋, I'm SHUBHAM PALIWAL</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
 
 - 🔭 I’m currently working on **Portfolio**
 
@@ -19,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubham-paliwal-7261a1217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubham-paliwal-7261a1217/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/shubham-paliwal-7261a1217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/https://www.linkedin.com/in/shubham-paliwal-7261a1217/" height="30" width="40" /></a>
 <a href="https://fb.com/paliwal.shubham27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="paliwal.shubham27" height="30" width="40" /></a>
 <a href="https://instagram.com/paliwal.shubham27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paliwal.shubham27" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/shubhampaliwal27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shubhampaliwal27/" height="30" width="40" /></a>
